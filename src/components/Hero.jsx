@@ -43,7 +43,7 @@ const Hero = () => (
       <GetStarted/>
     </div>
   </section>
-  )
+)
 
 
 export default Hero
